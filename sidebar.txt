@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ncn:home|Door43 (ncn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ncn|d43-ncn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ncn/archive/master.zip|d43-ncn.zip]]
+
+**Recent Changes**
+{{changes>ns = ncn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ncn|Ethnologue data]]
+
